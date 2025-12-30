@@ -1,0 +1,24 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "roblox-studio": {
+      "type": "local",
+      "command": [
+        "C:\\Users\\<you>\\Tools\\rbx-studio-mcp.exe",
+        "--stdio"
+      ],
+      "enabled": true
+    }
+  },
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "roblox-studio": {
+      "type": "local",
+      "command": [
+        "C:\\Users\\fizzy\\OneDrive\\Desktop\\robocode-bestcoderatrobocode\\MCP_TOOLS\\rbx-studio-mcp.exe",
+        "--stdio"
+      ],
+      "enabled": true
+    }
+  }
+}
